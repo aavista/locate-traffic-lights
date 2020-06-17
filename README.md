@@ -7,7 +7,7 @@ _Locate Traffic Lights_ detects traffic lights and their locations from images u
 
 The results is a map with junctions having traffic lights. A list of identified traffic lights in a structured format is also generated.
 
-<img src="https://github.com/aavista/locate-traffic-lights/detect-traffic-lights-example-map.png?raw=true" width="410">
+<img src="https://github.com/aavista/locate-traffic-lights/locate-traffic-lights-example-map.png?raw=true" width="410">
 
 
 Main features:
@@ -20,9 +20,10 @@ Main features:
 
 ## Sample
 
-Sample images are found under [samples/images](https://github.com/aavista/locate-traffic-lights/samples/images). 
+Sample images are found under [samples/images](https://github.com/aavista/locate-traffic-lights/tree/master/samples/images). 
 
-An example map and summary from a test run are available in [samples/results](https://github.com/aavista/locate-traffic-lights/samples/results).
+An example map and summary from a test run are available in [samples/results](https://github.com/aavista/locate-traffic-lights/tree/master/samples/results).
+
 
 ## Prerequisites
 
@@ -95,7 +96,7 @@ Feature requests and issues can be provided via the project's [issue tracker](ht
 
 ## Contributing
 
-Anyone is welcome to contribute to this repository. If you would like to make a change, open a pull request for the repository.
+Anyone is welcome to contribute to this repository. If you would like to make a change, open [a pull request](https://github.com/aavista/locate-traffic-lights/issues) for the repository.
 
 
 ## Credits
