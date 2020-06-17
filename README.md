@@ -7,7 +7,7 @@ _Locate Traffic Lights_ detects traffic lights and their locations from images u
 
 The results is a map with junctions having traffic lights. A list of identified traffic lights in a structured format is also generated.
 
-<img src="https://github.com/aavista/locate-traffic-lights/locate-traffic-lights-example-map.png?raw=true" width="410">
+<img src="https://github.com/aavista/locate-traffic-lights/blob/master/locate-traffic-lights-example-map.png?raw=true" width="410">
 
 
 Main features:
