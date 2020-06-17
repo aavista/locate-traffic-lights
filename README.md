@@ -96,7 +96,7 @@ Feature requests and issues can be provided via the project's [issue tracker](ht
 
 ## Contributing
 
-Anyone is welcome to contribute to this repository. If you would like to make a change, open [a pull request](https://github.com/aavista/locate-traffic-lights/issues) for the repository.
+Anyone is welcome to contribute to this repository. If you would like to make a change, open [a pull request](https://github.com/aavista/locate-traffic-lights/pulls) for the repository.
 
 
 ## Credits
