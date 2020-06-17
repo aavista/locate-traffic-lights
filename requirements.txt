@@ -1,0 +1,9 @@
+opencv-python
+cvlib
+tensorflow
+pandas
+numpy
+configparser
+folium
+
+

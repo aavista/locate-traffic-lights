@@ -1,0 +1,94 @@
+{
+    "image": "IMG_0301.jpeg",
+    "boxedImage": "boxed-IMG_0301.jpeg",
+    "labelCount": 7,
+    "trafficLightCount": 4,
+    "trafficLightConfidenceMax": 0.923,
+    "trafficLightConfidenceMean": 0.756,
+    "labels": [
+        "traffic light",
+        "car",
+        "car",
+        "traffic light",
+        "truck",
+        "traffic light",
+        "traffic light"
+    ],
+    "response": [
+        {
+            "label": "traffic light",
+            "confidence": 0.9227429628372192,
+            "boundingBox": [
+                258,
+                319,
+                262,
+                328
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.8722530603408813,
+            "boundingBox": [
+                217,
+                348,
+                237,
+                360
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.8366854786872864,
+            "boundingBox": [
+                185,
+                349,
+                208,
+                361
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.7915361523628235,
+            "boundingBox": [
+                516,
+                273,
+                526,
+                292
+            ]
+        },
+        {
+            "label": "truck",
+            "confidence": 0.7145891189575195,
+            "boundingBox": [
+                277,
+                341,
+                305,
+                367
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.6792658567428589,
+            "boundingBox": [
+                157,
+                263,
+                168,
+                288
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.6308321356773376,
+            "boundingBox": [
+                216,
+                285,
+                224,
+                303
+            ]
+        }
+    ],
+    "lat": 60.18852,
+    "lon": 24.94542,
+    "direction": 312.0,
+    "positioningError": 14.2,
+    "timeElapsed": 0.285
+}

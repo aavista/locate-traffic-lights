@@ -1,0 +1,138 @@
+{
+    "image": "IMG_8633.jpeg",
+    "boxedImage": "boxed-IMG_8633.jpeg",
+    "labelCount": 11,
+    "trafficLightCount": 3,
+    "trafficLightConfidenceMax": 0.925,
+    "trafficLightConfidenceMean": 0.91,
+    "labels": [
+        "traffic light",
+        "traffic light",
+        "traffic light",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car",
+        "car"
+    ],
+    "response": [
+        {
+            "label": "traffic light",
+            "confidence": 0.9249070882797241,
+            "boundingBox": [
+                299,
+                199,
+                311,
+                231
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.9090564250946045,
+            "boundingBox": [
+                364,
+                200,
+                375,
+                230
+            ]
+        },
+        {
+            "label": "traffic light",
+            "confidence": 0.8945555686950684,
+            "boundingBox": [
+                540,
+                277,
+                553,
+                300
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.8926799893379211,
+            "boundingBox": [
+                0,
+                354,
+                20,
+                375
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.8636236786842346,
+            "boundingBox": [
+                108,
+                351,
+                134,
+                364
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.8040574193000793,
+            "boundingBox": [
+                359,
+                347,
+                374,
+                358
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.7288697361946106,
+            "boundingBox": [
+                671,
+                343,
+                697,
+                355
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.6347686052322388,
+            "boundingBox": [
+                385,
+                342,
+                397,
+                352
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.6252326965332031,
+            "boundingBox": [
+                593,
+                344,
+                619,
+                355
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.6097518801689148,
+            "boundingBox": [
+                -16,
+                447,
+                714,
+                530
+            ]
+        },
+        {
+            "label": "car",
+            "confidence": 0.5496720671653748,
+            "boundingBox": [
+                52,
+                354,
+                70,
+                365
+            ]
+        }
+    ],
+    "lat": 60.19091,
+    "lon": 24.94974,
+    "direction": 306.0,
+    "positioningError": 4.7,
+    "timeElapsed": 0.288
+}
